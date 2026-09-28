@@ -28,6 +28,7 @@ the linked repos below.
 | Course | Repo | What's in it |
 |---|---|---|
 | CSC 305 — Introduction to Computer Graphics | [`introduction-to-computer-graphics`](https://github.com/sahil-sanghvi/introduction-to-computer-graphics) | 5 C++ renderers — 2D geometry through a BVH-accelerated ray tracer and a software rasterizer. |
+| CSC 330 — Programming Languages | [`programming-languages`](https://github.com/sahil-sanghvi/programming-languages) | 5 assignments across OCaml, Racket, Ruby, and APL — functional sets, streams, an interpreter built in two paradigms, and DNA-sequence analysis. |
 | CSC 360 — Operating Systems | [`operating-systems`](https://github.com/sahil-sanghvi/operating-systems) | A process manager, a pthreads concurrency sim, and a FAT12 filesystem toolkit, all in C. |
 | CSC 361 — Computer Communications and Networks | [`computer-communications-and-networks`](https://github.com/sahil-sanghvi/computer-communications-and-networks) | Raw-socket HTTP client, TCP analyzer, and traceroute reconstructor in Python. |
 | CSC 370 — Database Systems | [`database-systems`](https://github.com/sahil-sanghvi/database-systems) | Relational algebra and analytical SQL across two assignments. |
